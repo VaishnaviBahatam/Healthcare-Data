@@ -1,11 +1,11 @@
 # Healthcare Provider Data Cleaning & Data Quality Management
-# Project Title / Headline
+## Project Title / Headline
 Healthcare Provider Data Cleaning and Data Quality Management using SQL Server.
-# Short Description / Purpose
+## Short Description / Purpose
 This project focuses on identifying and correcting data quality issues in a healthcare providers dataset using SQL queries to improve data accuracy, consistency, and reliability.
-# Tech Stack
+## Tech Stack
 - SQL Server Management Studio (SSMS)
-# Features / Highlights
+## Features / Highlights
 - Identified NULL and blank values.
 - Standardized provider names and specialty formats.
 - Identified invalid and inconsistent phone numbers.
