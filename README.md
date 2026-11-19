@@ -9,7 +9,6 @@ This project focuses on identifying and correcting data quality issues in a heal
 - Identified NULL and blank values.
 - Standardized provider names and specialty formats.
 - Identified invalid and inconsistent phone numbers.
-- Validated email address formats.
 - Used SQL string functions for data cleaning.
 - Applied UPDATE statements to correct data inconsistencies.
 - Improved overall data quality and consistency.
